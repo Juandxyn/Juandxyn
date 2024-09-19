@@ -23,9 +23,7 @@ Currently exploring new technologies to enhance my web development skills.
 ---
 
 ## 📈 **GitHub Stats:**
-
-![Juand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juandxyn&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juandxyn&layout=compact&theme=tokyonight)
+[![Juand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juandxyn&show_icons=true&theme=tokyonight)](https://github.com/Juandxyn)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juandxyn&layout=compact&theme=tokyonight)](https://github.com/Juandxyn)
 
 ---
